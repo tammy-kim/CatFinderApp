@@ -16,9 +16,11 @@ I strongly recommend this application to anyone who wants to get a cat but is un
 
 ## What inspired me to do this project?
 
-I'm a cat lover! Cat is my favourite animal. However, I have cat allergies, meaning that I can't just raise any kind of cat without 
+Despite being a cat lover and very willing to become a responsible owner, I have cat allergies, meaning that I can't just raise any kind of cat without 
 risking my health. Then, I found out that there are several hypoallergenic cat breeds out there, and many people with allergies 
-do quite well with them. So I decided to make a CatFinder application that provides all the recommended cat breeds for a user.
+do quite well with them. I thought, 'Out of these hypoallergenic cat breeds, which ones will be right for me? How can I find out without 
+manually searching for every breed and looking at its profile?' 
+This motivated me to make a CatFinder application that provides all the recommended cat breeds for a user.
 
 After making this application, I decided to answer the questionaire and find out what types of cats I should consider getting, and the results said that the Siberian is the only breed that meets my requirements. It looks like I'll be raising a Siberian in the future!
 
