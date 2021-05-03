@@ -222,7 +222,7 @@ def submit():
         resultWindow.iconbitmap("images/icon.ico")
         resultWindow.configure(background = "#CBF3F1")
         resultWindow.geometry("630x600")
-        if not result:  # if list is empty, display a window that tells the user there is an error
+        if not result:  # if list is empty, display a window that tells the user that there are no cats that meet their requirements
             Label(resultWindow, text = "Oh no! It looks like there are no suitable cat breeds that meet your requirements.\n", 
                   font=("Helvetica", 10), bg = "#CBF3F1").pack(anchor=W)
         else:   # otherwise, display a window that gives a list of the recommended cat breeds for the user
