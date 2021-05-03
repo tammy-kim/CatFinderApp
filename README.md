@@ -29,5 +29,6 @@ First, the user must appropriately answer the given questions. For example, it m
 Next, after pressing submit button, a new window will pop up that shows all cat breeds that match with the user's responses:
 ![catfinder2](https://user-images.githubusercontent.com/65116042/116832420-e1044000-ab69-11eb-97a6-f4ad29b488c8.PNG)
 
-If the user clicks on the button of the cat that they want to learn more about, a new window will pop up that shows the cat's image and short description:
+If the user clicks on the button of the cat that they want to learn more about, a new window will pop up that shows the cat's image and short description.
+For instance, if they click on the button "American Bobtail", this will show up:
 ![catfinder3](https://user-images.githubusercontent.com/65116042/116832425-e1044000-ab69-11eb-80fa-af03554c2e80.PNG)
