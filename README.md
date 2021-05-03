@@ -2,7 +2,7 @@
 
 ## What is CatFinderApp?
 
-In CatFinderApp, you can find a list of the cat breeds that meet your requirements: 
+In CatFinderApp, you can find a list of the CFA registered cat breeds (https://cfa.org/breeds/) that meet your requirements: 
 - whether you want it to be a shorthair or longhair,
 - if the cat should be active or calm in nature, 
 - if the cat's grooming requirements should be low, 
