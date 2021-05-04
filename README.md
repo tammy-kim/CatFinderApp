@@ -22,7 +22,7 @@ do quite well with them. I thought, 'Out of these hypoallergenic cat breeds, whi
 manually searching for every breed and looking at its profile?' 
 This motivated me to make a CatFinder application that provides all the recommended cat breeds for a user.
 
-After making this application, I decided to answer the questionaire and find out what types of cats I should consider getting, and the results said that the Siberian and Russian Blue are the only breeds that meets my requirements.
+After making this application, I decided to answer the questionaire and find out what types of cats I should consider getting, and the results said that the Siberian and Russian Blue are the only breeds that meet my requirements.
 
 ## How does CatFinderApp work?
 
