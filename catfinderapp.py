@@ -93,6 +93,8 @@ cat_list.append(Cat("RagaMuffin", "longhair", "low", "high", "high", "low", "mod
                     "RagaMuffins are people-oriented, affectionate, and not very vocal cats. They are also generally very healthy and adaptable."))
 cat_list.append(Cat("Ragdoll", "longhair", "low", "high", "high", "low", "moderate", "no", "ragdoll.jpg",
                     "Docile and mild-mannered, Ragdolls are excellent indoor companions. They are laid-back, affectionate, and gentle."))
+cat_list.append(Cat("Russian blue", "shorthair", "moderate", "low", "moderate", "high", "high", "yes", "russian_blue.jpg", 
+                    "Quiet, gentle, and low-maintenance cats. Russian blues are generally well-behaved and good at entertaining themselves."))
 cat_list.append(Cat("Scottish Fold", "shorthair and longhair", "low", "moderate", "moderate", "high", "low", "no", "scottish_fold.jpg",
                     "Scottish Folds have folded ears and very round build, due to mutation. They are soft-spoken and adaptable. Some, however, develop ear infections and deafness."))
 cat_list.append(Cat("Selkirk Rex", "shorthair and longhair", "low", "high", "high", "moderate", "high", "no", "selkirk_rex.jpg",
